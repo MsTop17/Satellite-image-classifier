@@ -1,0 +1,15 @@
+# Ignore virtual environment
+venv/
+sat_hard/
+
+# Ignore big files
+*.tif
+*.zip
+*.tar.gz
+*.hdf
+*.npy
+*.pt
+*.pth
+
+# Ignore system files
+.DS_Store
