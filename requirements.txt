@@ -1,1 +1,17 @@
+numpy
+pandas
+matplotlib
+scikit-learn
+albumentations
+tqdm
+torch
+torchvision
+torchaudio
+opencv-python
+opencv-contrib-python
+rasterio
+geopandas
+shapely
+scikit-image
+rioxarray
 
